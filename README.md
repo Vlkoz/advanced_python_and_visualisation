@@ -1,1 +1,1 @@
-# Advanced_python_and_visualisation
+### В данном проекте решены задачи на продвинутый Pandas и визуализацию.
